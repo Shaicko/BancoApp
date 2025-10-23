@@ -8,7 +8,7 @@
     android:gravity="center"
     android:orientation="vertical"
     android:padding="24dp"
-    android:background="@drawable/fondo_banco"
+    android:background="@drawable/fondo_app"
     tools:context=".LoginActivity">
 
     <com.google.android.material.textfield.TextInputLayout

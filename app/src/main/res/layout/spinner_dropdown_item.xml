@@ -9,4 +9,4 @@
     android:singleLine="true"
     android:textColor="@color/white"
     android:textSize="20sp"
-    android:background="@color/purple"/>
+    android:background="@color/design_default_color_secondary_variant"/>
