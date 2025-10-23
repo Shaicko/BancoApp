@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tipos_tarjeta">
+        <item>Visa</item>
+        <item>MasterCard</item>
+        <item>American Express</item>
+    </string-array>
+    <string name="inicio">Se connecter</string>
+    <string name="usuario">Nom d\'utilisateur</string>
+    <string name="contrasena">Mot de passe</string>
+    <string name="entrar">Connexion</string>
+    <string name="email">Courriel</string>
+    <string name="pagar">Payer</string>
+    <string name="numero_tarjeta">Numéro de carte (16 chiffres)</string>
+    <string name="nombre">Nom du titulaire de la carte</string>
+    <string name="cvv">CVV</string>
+    <string name="datos_pago">Informations de paiement</string>
+    <string name="monto_formato">Montant à payer : %1$s</string>
+    <string name="error_usuario_contrasena">Nom d\'utilisateur ou mot de passe incorrect</string>
+    <string name="error_nombre_obligatorio">Le nom est requis</string>
+    <string name="error_nombre_invalido">Le nom ne doit contenir que des lettres et des espaces</string>
+    <string name="error_numero_tarjeta">Le numéro de carte doit avoir 16 chiffres</string>
+    <string name="error_cvv">Le CVV doit avoir au moins 3 chiffres</string>
+    <string name="error_email">Le format de l\'adresse courriel est invalide</string>
+    <string name="error_fecha_exp">La date d\'expiration est requise</string>
+    <string name="error_fecha_exp_formato">Le format doit être MM/AA</string>
+    <string name="error_fecha_exp_mes">Le mois (MM) doit être entre 01 et 12</string>
+    <string name="error_fecha_exp_expirada">La carte est expirée</string>
+    <string name="error_campos_incompletos">Veuillez remplir correctement tous les champs.</string>
+    <string name="fecha_expedicion">MM/AA</string>
+    <string name="finalizar">Terminer</string>
+    <string name="resumen">Résumé de l\'opération</string>
+    <string name="pago_exitoso">Paiement réussi !</string>
+    <string name="pago_rechazado">Paiement refusé</string>
+    <string name="resumen_operacion">Montant : %1$s\n\nClient : %2$s\n\nCourriel : %3$s\n\nCarte : %4$s se terminant par ****%5$s</string>
+</resources>

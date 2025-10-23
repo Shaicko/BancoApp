@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name" translatable="false">BancoApp</string>
+    <string-array name="tipos_tarjeta">
+        <item>Visa</item>
+        <item>MasterCard</item>
+        <item>American Express</item>
+    </string-array>
+    <string name="inicio">Iniciar Sesión</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="entrar">Entrar</string>
+    <string name="email">Correo electrónico</string>
+    <string name="pagar">Procede para pagar</string>
+    <string name="numero_tarjeta">Número de tarjeta (16 dígitos)</string>
+    <string name="nombre">Nombre del tarjetahabiente</string>
+    <string name="cvv">CVV</string>
+    <string name="datos_pago">Datos de Pago</string>
+    <string name="monto_formato">Monto a Pagar: %1$s</string>
+    <string name="error_usuario_contrasena">Usuario o contraseña incorrectos</string>
+    <string name="error_nombre_obligatorio">El nombre es obligatorio</string>
+    <string name="error_nombre_invalido">El nombre solo debe contener letras y espacios</string>
+    <string name="error_numero_tarjeta">El número de tarjeta debe tener 16 dígitos</string>
+    <string name="error_cvv">El CVV debe tener al menos 3 dígitos</string>
+    <string name="error_email">El formato del email es incorrecto</string>
+    <string name="error_fecha_exp">La fecha de expiración es obligatoria</string>
+    <string name="error_fecha_exp_formato">El formato debe ser MM/AA</string>
+    <string name="error_fecha_exp_mes">El mes (MM) debe ser entre 01 y 12</string>
+    <string name="error_fecha_exp_expirada">La tarjeta está expirada</string>
+    <string name="error_campos_incompletos">Por favor, complete todos los campos correctamente.</string>
+    <string name="fecha_expedicion">MM/AA</string>
+    <string name="finalizar">Cerrar Aplicación</string>
+    <string name="resumen">Resultado de la Operación:</string>
+    <string name="pago_exitoso">¡Pago Exitoso!</string>
+    <string name="pago_rechazado">Pago Rechazado</string>
+    <string name="resumen_operacion">Monto: %1$s\n\nCliente: %2$s\n\nEmail: %3$s\n\nTarjeta: %4$s terminada en ****%5$s</string>
+</resources>
