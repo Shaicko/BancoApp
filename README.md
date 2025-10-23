@@ -74,7 +74,7 @@ Asegúrate de tener instalado:
 
 1.  **Clona el repositorio:**
     ```sh
-    git clone [https://github.com/Shaicko/BancoApp.git](https://github.com/Shaicko/BancoApp.git)
+    git clone https://github.com/Shaicko/BancoApp.git
     ```
 2.  **Abre el proyecto en Android Studio:**
     * Ve a `File` -> `Open`.
@@ -108,4 +108,4 @@ Distribuido bajo la Licencia MIT. Consulta el archivo `LICENSE` para más inform
 
 -   **Nombre:** Leonardo Ariel Berdejo Guzmán
 -   **Email:** berdejoleon@gmail.com
--   **Enlace del Proyecto:** [https://github.com/Shaicko/BancoApp.git](https://github.com/Shaicko/BancoApp.git)
+-   **Enlace del Proyecto:** [https://github.com/Shaicko/BancoApp](https://github.com/Shaicko/BancoApp.git)
